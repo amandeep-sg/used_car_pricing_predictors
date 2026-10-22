@@ -319,7 +319,7 @@ We have done the k-fold (k=5) cross validation on the training set to fit the mo
 1. Increase the number of independent variables to train the model
 2. Change the methods from Linear Regression to more advance like random forest, etc.
 
-![model complexity vs rmse](plots/model_complexity_rmse.jpeg)
+![model complexity vs rmse](plots/model_complexity.jpeg)
 
 ## Cofficient Values
 
